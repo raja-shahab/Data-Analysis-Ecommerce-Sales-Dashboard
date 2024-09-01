@@ -4,7 +4,7 @@
 
 This project provides an interactive dashboard for analyzing e-commerce sales data. The dashboard visualizes key metrics such as total sales, profit, quantity sold, and more, broken down by various categories like state, payment mode, and product categories.
 
-![Dashboard](C:\Users\rajas\Downloads\dashboard.png)
+<img width="594" alt="dashboard" src="https://github.com/user-attachments/assets/3b0aaad4-8750-4126-8a92-c25eb67d2f95">
 
 ## Features
 
